@@ -3,7 +3,7 @@ Contributors: corbee
 Tags: notebook, private categories
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 4.1
+Stable tag: 1.0
 License: GPLv2 or later
 
 A widget that exposes private categories, useful for navigation especially if you want to use wordpress as a diary or a notebook. 
